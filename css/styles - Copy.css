@@ -1,0 +1,117 @@
+/*CSS styles for IDEAL TagGMS*/
+body{
+	/*font-family:Arial, Times New Roman, Verdana;*/
+	font-family: verdana,bitstream vera sans,sans-serif;
+    font-size: 10px;
+	/*font-size: 1em;*/
+	color:#ffffff;
+	background-color:#000000;
+	width:100%;
+}
+
+input{
+	width:250px;
+	height:25px;
+	border: 1px solid #efefef;
+}
+
+.button{
+	width:80px;
+	cursor:pointer;
+	font-weight:bold;
+	background-color:#2b2a2a;
+	color:#fff;
+}
+
+label{
+	font-weight:bold;
+}
+
+#container{
+	margin-top:150px;
+	height:100%;
+}
+
+#cmscontainer{
+	height:780px;
+}
+
+
+#containbox{
+	padding-top:20px;
+	border:1px solid #efefef;
+	height:400px;
+	width:600px;
+	position:static;
+	text-align:center;
+}
+
+#headerbox{
+	text-align:left;
+	border-bottom:1px solid #ffffff;
+}
+
+.headertitle{
+	font-size:22px;
+	font-weight:bold;
+}
+
+#error_msg{
+	color:red;
+	font-size:14px;
+	font-weight:bold;
+	padding: 0px 0 20px 0;
+}
+
+a{
+	text-decoration:none;
+	color:#fff;
+}
+
+#cmsmenu{
+	text-decoration:none;
+	float:left;
+	text-align:center;
+	border:0px solid #efefef;
+	height:40px;
+	width:97%;
+	font-size:12px;
+	font-weight:bold;
+	padding-left:0px;
+	padding-top:0px;
+}
+
+#cmsfooter{
+	position:relative;
+	background-color:#2a2a2a;
+	height:30px;
+	padding: 15px 0 0px 0;
+	border:0px solid red;
+}
+
+#contentbox{
+	height:90%;
+	border:0px solid blue;
+}
+
+
+#formbox{
+	vertical-align:text-top;
+	height:80%;
+	border:0px solid green;
+	margin-top:40px;
+	padding-left:20px;
+}
+
+#dash_cat{
+	margin-top:50px;
+	border:1px solid #fff;
+}
+
+.frm_buttons{
+	width:70px;
+	cursor:pointer;
+	border:2px solid #3a3a3a;
+	background-color:#C6BABA;
+	font-weight:bold;
+}

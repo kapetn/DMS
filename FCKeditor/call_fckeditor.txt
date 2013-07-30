@@ -1,0 +1,10 @@
+<script type="text/javascript" language="javascript">
+		
+		var oFCKeditor = new FCKeditor('ldescr') ;
+		oFCKeditor.BasePath	= '../../../FCKeditor/' ;	
+		oFCKeditor.Width	= 405;
+		oFCKeditor.Height	= 300 ;
+		oFCKeditor.Value="<?php echo '<p>Πληκτρολογήσετε το κειμενό σας εδώ..</p>'; ?>";
+		oFCKeditor.Create() ;
+		</script>
+<!--call the editor-->

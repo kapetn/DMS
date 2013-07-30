@@ -1,0 +1,113 @@
+/*CSS styles*/
+html, body{
+		background-color:#edede2;
+		font-family:Verdana, Arial;
+	}	
+	label{
+		font-size:11px;
+		font-weight:bold;
+	}	
+	input{
+		width:200px;
+	}
+	input[type=submit], input[type=reset]{
+		border:1px solid #efefef;
+		font-size:12px;
+		height:25px;
+		background-color:#d2d2d2;		
+		padding:2px;
+		width:80px;
+		cursor:pointer;
+	}	
+	button{
+		border-radius: 4px 4px 4px 4px;
+		background-color:#d2d2d2;		
+		font-weight:bold;
+		cursor:pointer;
+	}
+	
+	/*ID selectors*/
+	#header{
+		margin-left:20px;
+		margin-top:20px;
+	}
+	#topmenu{
+		padding-left:220px;
+		color:#dbdbdb;
+		font-weight:bold;		
+	}
+	#breadcrumb{
+		padding-left:10px;
+		border:1px solid #dbdbdb;
+		border-radius: 4px 4px 4px 4px;
+		margin-left:10px;
+		margin-right:10px;
+	}
+	#message{
+		margin-left:10px;
+		margin-top:10px;
+		font-size:12px;
+		font-weight:bold;
+		color:red;
+	}
+	#login{
+		margin-top:20px;
+		margin-left:10px;
+		margin-right:10px;
+		border:1px solid #dbdbdb;
+		height:45px;
+		padding:5px;
+		border-radius: 4px 4px 4px 4px;
+	}
+	#frm_newmember{
+		margin-left:10px;
+		margin-top:10px;
+	}
+	
+	#dobooking{
+		margin-left:10px;
+		margin-right:10px;
+		margin-top:10px;
+		padding-left:10px;
+		padding-top:10px;		
+		padding-bottom:10px;		
+		border:1px solid #dbdbdb;
+		border-radius: 4px 4px 4px 4px;
+	}
+	
+	#footer{
+		font-size:12px;
+		padding-bottom:15px;
+		padding-top:15px;		
+	}	
+	/*Classes*/
+	.wizard{
+		font-size: 30px;
+		font-weight:bold;
+		margin-left:10px;
+		margin-top:20px;
+	}	
+	.hotel_div{
+		border-radius: 4px 4px 4px 4px;
+		border: 1px solid #AAAAAA;
+		/*height:300px;*/
+		padding-left:10px;
+		margin-right:5px;
+		font-size:12px;
+		font-weight:normal;
+	}
+	.frm_label{
+		width:200px;
+	}
+	.error{
+		color:red;
+	}
+	.btn_link{
+		width:450px;
+	}
+
+	a{font-size:11px; text-decoration:none; margin-top:15px; font-weight:bold;}
+	a:link {color:#8b8b88;}      /* unvisited link */
+	a:visited {color:#8b8b88;}  /* visited link */
+	a:hover {color:#d1d2ce;}  /* mouse over link */
+	a:active {color:#8b8b88;}  /* selected link */

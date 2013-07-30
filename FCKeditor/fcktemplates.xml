@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="iso-8859-7" ?>
+<Templates imagesBasePath="http://www.koublis.gr/e-newsletter/FCKEditor/editor/filemanager/browser/default/connectors/upload/Image">
+    <Template title="Newsletter" image="logo_int.gif">
+        <Description>Newsletter Template</Description>
+        <Html>
+            <![CDATA[
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1253" />
+<title>Petros Koublis - International Journalist Services</title>
+
+<script type="text/JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+<link href="styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.style6 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+}
+-->
+</style>
+</head>
+
+<body class="style1">
+<table width="900" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="92"><table width="900" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="569"><img src="images/newsletter01.gif" width="569" height="71"></td>
+        <td width="331"><img src="images/newsletter02.gif" width="331" height="71"></td>
+      </tr>
+      <tr>
+        <td width="569"><img src="images/newsletter03.gif" width="569" height="21"></td>
+        <td width="331" class="style1">
+            <div align="right">
+              <!-- #BeginDate format:fAm1m -->Tuesday October 24, 2006  15:41<!-- #EndDate -->
+              </div></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td valign="top" background="images/newsletterbg.gif"><table width="900" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="569"><table width="569" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="546" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="498" class="style1"><p class="style1"><span class="style3">15th Aug 2006</span><br>
+                        <span class="style2">OUR HLINE CO FI ONLINE COMLINE COANY</span></p>
+                  <img src="images/temp_img001.jpg" width="221" height="116" align="left">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismoLorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod ad diam nonummy nibh euismod tincidunt d ad diam nonummy nibh euismod tincidunt </td>
+              </tr>
+              <tr>
+                <td class="style3"><div align="right"><a href="#">View more </a></div></td>
+              </tr>
+            </table> </td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td valign="middle" bgcolor="#010B0E"><span class="style6"><img src="images/blank.gif" width="15" height="14" align="absmiddle">LATEST NEWS</span></td>
+          </tr>
+          <tr>
+            <td><table width="537" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="537" class="style3">Date 15 11 1984 </td>
+                </tr>
+                <tr>
+                  <td class="style2Copy">TITLE GOES HERE TITLE GOES HERE</td>
+                </tr>
+                <tr>
+                  <td class="style1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod ad diam nonummy nibh euismod tincidunt </td>
+                </tr>
+                <tr>
+                  <td><a href="#" class="style3">View More </a></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td><hr /></td>
+          </tr>
+          <tr>
+            <td><table width="537" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="537" class="style3">Date 15 11 1984 </td>
+              </tr>
+              <tr>
+                <td class="style2Copy">TITLE GOES HERE TITLE GOES HERE</td>
+              </tr>
+              <tr>
+                <td class="style1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod ad diam nonummy nibh euismod tincidunt </td>
+              </tr>
+              <tr>
+                <td><a href="#" class="style3">View More </a></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td><hr /></td>
+          </tr>
+          <tr>
+            <td><table width="537" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="537" class="style3">Date 15 11 1984 </td>
+                </tr>
+                <tr>
+                  <td class="style2Copy">TITLE GOES HERE TITLE GOES HERE</td>
+                </tr>
+                <tr>
+                  <td class="style1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod ad diam nonummy nibh euismod tincidunt </td>
+                </tr>
+                <tr>
+                  <td><a href="#" class="style3">View More </a></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td><hr /></td>
+          </tr>
+          <tr>
+            <td><table width="537" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="537" class="style3">Date 15 11 1984 </td>
+                </tr>
+                <tr>
+                  <td class="style2Copy">TITLE GOES HERE TITLE GOES HERE</td>
+                </tr>
+                <tr>
+                  <td class="style1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod ad diam nonummy nibh euismod tincidunt </td>
+                </tr>
+                <tr>
+                  <td><a href="#" class="style3">View More </a></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td><hr /></td>
+          </tr>
+          <tr>
+            <td bgcolor="#EF6D00"><span class="style6"><img src="images/blank.gif" width="15" height="14" align="absmiddle">RADIO STORIES</span></td>
+          </tr>
+          <tr>
+            <td><table width="537" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="537" class="style3">Date 15 11 1984 </td>
+              </tr>
+              <tr>
+                <td class="style2Copy">TITLE GOES HERE TITLE GOES HERE</td>
+              </tr>
+              <tr>
+                <td class="style1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod ad diam nonummy nibh euismod tincidunt </td>
+              </tr>
+              <tr>
+                <td><a href="#" class="style3">View More </a></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td><hr /></td>
+          </tr>
+          <tr>
+            <td><table width="537" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="537" class="style3">Date 15 11 1984 </td>
+              </tr>
+              <tr>
+                <td class="style2Copy">TITLE GOES HERE TITLE GOES HERE</td>
+              </tr>
+              <tr>
+                <td class="style1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod ad diam nonummy nibh euismod tincidunt </td>
+              </tr>
+              <tr>
+                <td><a href="#" class="style3">View More </a></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td><hr /></td>
+          </tr>
+        </table></td>
+        <td width="331" valign="top"><table width="311" height="102" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td valign="top"><p><img src="images/petros_newsletter.jpg" width="100" height="125" align="right"><span class="style2">Editorial</span></p>
+              <p class="style2Copy">Title Goes Here Title Goes Her<span class="style2Copy">Title Goes Here </span> </p>              <p class="style1Copy">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod ad diam nonummy nibh euismod tincidunt Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod ad diam nonummy nibh euismod tincidunt Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod ad diam nonummy nibh euismod tincidunt Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod ad diam nonummy nibh euismod tincidun</p>
+              <p class="style1Copy">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod ad diam nonummy nibh euismod tincidunt Loredssdfm ipsum dolor sit, consectetuer adipiscing elit, sed diam nonummy nibh euismod ad diam nonummy nibh euismod tincidunt Lorem ipsum dolor sit aming elit, sed diam nonummy nibh euismod ad diam nonummy nibh euismod tincidunt Lorem ipsum dfdfsit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod ad diam nonummy nibh edfmod tincidunt Lorem ipsum dolor sit amet, consectetuer adipiscidf sed diam nonueuismod ad diam nonummy nibh euismod tincidunt t Lorem ipsum dolor sit amet, consectetuer adip sed diam nonudmy nibh euismod ad diam nonummy nibh euismoddfunt </p>
+              <p class="style1"><span class="style1Copy">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod ad diam nonummy nibh euismod tincidunt Lorem ipsum dolor sit amet, consectetuer ad</span></p></td>
+          </tr>
+          <tr>
+            <td valign="top" class="style1">&nbsp;</td>
+          </tr>
+          <tr>
+            <td valign="top" class="style1"><p align="left" class="style1Copy">With regards </p>
+              <p align="left"><img src="images/newsletter04.gif" width="80" height="57"></p></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="50" bgcolor="#C3D1D4"><div align="center" class="style1">To unsubscribe from this newsletter please <a href="#">click here </a></div></td>
+  </tr>
+</table>
+ </body>
+            ]]>
+        </Html>
+    </Template>
+</Templates>

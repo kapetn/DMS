@@ -1,0 +1,55 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(images/bg.jpg);
+}
+.style2 {
+	color: #CC0000;
+	font-size: 22px;
+	font-family: "Times New Roman", Times, serif;
+}
+.style3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #333333;
+	font-size: 12px;
+}
+.style4 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #990000;
+}
+a:link {
+	color: #CC0000;
+	text-decoration: none;
+}
+a:visited {
+	color: #CC0000;
+	text-decoration: none;
+}
+a:hover {
+	color: #CC0000;
+	text-decoration: underline;
+}
+a:active {
+	color: #FF0000;
+	text-decoration: none;
+}
+.style5 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+}
+.style2Copy {
+
+	color: #CC0000;
+	font-size: 18px;
+	font-family: "Times New Roman", Times, serif;
+}
+.style6 {
+	font-size: 14px;
+	color: #FFFFFF;
+	font-weight: bold;
+}

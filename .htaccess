@@ -1,0 +1,23 @@
+##  Can be commented out if causes errors, see notes above.
+# For security reasons, Option followsymlinks cannot be overridden.
+#Options +FollowSymLinks
+Options +SymLinksIfOwnerMatch -Indexes
+
+#
+#  mod_rewrite in use
+RewriteEngine On
+RewriteOptions Inherit 
+#RewriteRule ^index/([^/\.]+)/?$ index.php?l=$1 [L]
+#RewriteRule ^index/ index.php [L]
+#RewriteRule ^index index.php [L]
+#RewriteRule ^content/([^/\.]+)/([^/\.]+)/?$ content.php?pid=$1&vrc_alias=$2 [L]
+#RewriteRule ^content/([^/\.]+)/?$ content.php?pid=$1 [L]
+#RewriteRule ^products/([^/\.]+)/([^/\.]+)/?$ products.php?cid=$1&sid=$2 [L]
+#RewriteRule ^products/([^/\.]+)/?$ products.php?cid=$1 [L]
+#RewriteRule ^offers/ offers.php [L]
+#RewriteRule ^offers offers.php [L]
+
+#RewriteRule ^product/([^/\.]+)/([^/\.]+)/([^/\.]+)/?$ product.php?cid=$1&sid=$2&pid=$3 [L]
+#RewriteRule ^message/([^/\.]+)/([^/\.]+)/?$ message.php?module=$1&errornum=$2 [L]
+#RewriteRule ^cart/ cart.php [L]
+#RewriteRule ^complete-order/ complete-order.php [L]

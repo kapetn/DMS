@@ -1,0 +1,49 @@
+html{ left:0; top:0; font-family: Tahoma,Geneva,sans-serif; font-size: 14px;}
+body{background-color:#2f4b66; margin-left:10%; margin-right:10%;}
+
+/*ID selectors*/
+#container{width:1000px; text-align:center;}
+#header{margin-top:10px; text-align:center;}
+#mmenu{background-color:#fff7e3; min-width:300px; min-height:50px; padding:25px 5px 0px 5px; border-radius:5px; cursor:pointer; box-shadow: 5px 5px 25px #fff7e3;}
+#cart{float:right;}
+#hright{float:right;}
+#content{background-color:#fff; min-height:600px; border-radius:5px;}
+#ccontent{margin-top:20px;}
+#leftmenu{background-color:#9da9b7; min-height:466px; padding-top:5px; padding-left:2px; margin-top:20px; margin-left:10px; border-radius:5px; box-shadow: 5px 5px 35px #9da9b7;}
+#hproducts{font-size:18px; font-style:italic;}
+#footer{background-color:#000; min-height:100px; padding-top:10px; padding-bottom:10px;}
+#fmmenu{font-size:16px;}
+
+/*Styles for links*/
+#mmenu a{text-decoration:none; color:#ff3d0b;}
+#mmenu a:hover {text-decoration:none; color:#2f4b66;}
+
+#fmmenu a{text-decoration:none; color:#ff3d0b;}
+#fmmenu a:hover {text-decoration:none; color:#fff;}
+
+#flmenu a{text-decoration:none; color:#fff;}
+#flmenu a:hover{text-decoration:none; color:#8ca9b7;}
+
+
+#leftmenu a{text-decoration:none; color:#fff;}
+#leftmenu a:hover{text-decoration:none; color:#ff3d0b;}
+
+#dialog-form{display:none;}
+#login-form{display:none;}
+
+/*Classes*/
+.redcolor{color:#ff3d0b;}
+.greycolor{color:#8ca9b7;}
+.whitecolor{color:#fff;}
+.orangecolor{color:#ff3d0b;}
+.darkblue{color:#2f4b66;}
+.menufont{font-size:12px;}
+.lmenufont{font-size:13px; color:#fff; font-style:italic; cursor:pointer;}
+.boldfont{font-weight:bold;}
+.smallfont{font-size:12px;}
+.mediumfont{font-size:14px;}
+.largefont{font-size:18px;}
+.border{border:1px solid #fff;}
+.btnclass{width:80px; height:30px; background-color:#020202; cursor:pointer; border-radius:5px;}
+.nodecoration{text-decoration:none;}
+.error{color:red; font-size:11px;}

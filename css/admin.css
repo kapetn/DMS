@@ -1,0 +1,100 @@
+html, body{width:100%; font-size:12px; font-family:"Trebuchet MS", Arial, Verdana;}
+label{font-weight:bold; font-size:14px;}
+h1, h2{color:#a2a2a2;}
+[type=text],[type="password"]{width:300px; margin-left:5px;}
+[type=submit], [type=reset]{cursor:pointer; border:2px solid #000; backbround-color:#c8c8c8; width:120px;}
+
+/*Back End Menu Styles*/
+/* links
+*************************/
+
+a:link, a:visited, a:hover, a:active
+{
+text-decoration: none;
+}
+
+/* inline elements
+*************************/
+
+strong
+{
+font-weight: bold;
+}
+
+/* menu-specifc
+*************************/
+ul.topnav {
+	list-style: none;
+	padding: 0 20px;
+	margin: 0;
+	float: left;
+	width:98%;
+	background: #222;
+	font-size: 11px;
+	background: url(../images/topnav_bg.gif) repeat-x;
+}
+ul.topnav li {
+	float: left;
+	margin: 0;
+	padding: 0 15px 0 0;
+	position: relative; /*--Declare X and Y axis base for sub navigation--*/
+}
+ul.topnav li a{
+	padding: 10px 5px;
+	color: #fff;
+	display: block;
+	text-decoration: none;
+	float: left;
+}
+ul.topnav li a:hover{
+	background: url(../images/topnav_hover.gif) no-repeat center top;
+}
+ul.topnav li span { /*--Drop down trigger styles--*/
+	width: 17px;
+	height: 35px;
+	float: left;
+	background: url(../images/subnav_btn.gif) no-repeat center top;
+}
+ul.topnav li span.subhover {background-position: center bottom; cursor: pointer;} /*--Hover effect for trigger--*/
+ul.topnav li ul.subnav {
+	list-style: none;
+	position: absolute; /*--Important - Keeps subnav from affecting main navigation flow--*/
+	left: 0; top: 35px;
+	background: #333;
+	margin: 0; padding: 0;
+	display: none;
+	float: left;
+	width: 170px;
+	border: 1px solid #111;
+}
+ul.topnav li ul.subnav li{
+	margin: 0; padding: 0;
+	border-top: 1px solid #252525; /*--Create bevel effect--*/
+	border-bottom: 1px solid #444; /*--Create bevel effect--*/
+	clear: both;
+	width: 170px;
+}
+html ul.topnav li ul.subnav li a {
+	float: left;
+	width: 145px;
+	background: #333 url('../images/dropdown_linkbg.gif') no-repeat 10px center;
+	padding-left: 20px;
+}
+html ul.topnav li ul.subnav li a:hover { /*--Hover effect for subnav links--*/
+	background: #222 url('../images/dropdown_linkbg.gif') no-repeat 10px center;
+}
+
+.error{
+	color:red;
+	font-size:14px;
+}
+
+
+/*Class Selectors*/
+.cms_header_row{background-color:#d9d9d9; text-shadow: 2px 2px 2px #000; padding-left:5px;}
+.cms_menu_row{background-color:#000; text-shadow: 2px 2px 2px #fff; padding-left:5px; color:#efefef; font-size:14px;}
+
+/*ID Selectors*/
+#loginfrm{border:2px solid #efefef; width:600px; height:400px;}
+#errordiv{background-color:red; color:#ffffff;}
+#divheader{background-color:#c9c9c9; height:100%;}
